@@ -1,2 +1,2 @@
 This is my personal site <br />
-Theme by beautiful-jekyll
+Theme by beautiful-jekyll <br />
