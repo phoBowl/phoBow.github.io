@@ -1,0 +1,8 @@
+---
+layout: post
+title: Blogging
+subtitle: ... blog or not?
+tags: [firstblog, helloworld]
+---
+
+This is first blog -- Say Hi to the World :)
