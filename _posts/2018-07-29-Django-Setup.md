@@ -18,7 +18,7 @@ After successfully install django on your machine. Let create a project<br>
 
 **Step 3:** You will see a file name manage.py in the directory by using **ls** command. We will then run the server and after that try to access 127.0.0.1:8000 on you web browser. It should display a hello world page
 * python manage.py runserver 0.0.0.0:8000
-```bash
+```
 $ python manage.py runserver 0.0.0.0:8000
 Performing system checks...
 
