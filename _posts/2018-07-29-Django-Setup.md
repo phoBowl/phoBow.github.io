@@ -18,7 +18,7 @@ After successfully install django on your machine. Let create a project<br>
 
 **Step 3:** You will see a file name manage.py in the directory by using **ls** command. We will then run the server and after that try to access 127.0.0.1:8000 on you web browser. It should display a hello world page
 * python manage.py runserver 0.0.0.0:8000
-```
+```sh
 $ python manage.py runserver 0.0.0.0:8000
 Performing system checks...
 
@@ -32,10 +32,10 @@ Django version 1.8.7, using settings 'learning_site.settings'
 Starting development server at http://0.0.0.0:8000/
 Quit the server with CONTROL-C.
 ```
-<br>
+
 **Step 4:** Notice the output from the previous step, we see 'You have unapplied migration;...'. Now let migrate to project with database
 * python manage.py migrate
-```bash
+```sh
 $ python manage.py migrate
 Operations to perform:
   Synchronize unmigrated apps: staticfiles, messages
