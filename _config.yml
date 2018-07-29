@@ -121,7 +121,7 @@ disqus: "disqus_bf6jNK0R1c"
 # --- Misc --- #
 
 # Facebook App ID
-# fb_app_id: ""
+fb_app_id: "dinh.nam.1420"
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
