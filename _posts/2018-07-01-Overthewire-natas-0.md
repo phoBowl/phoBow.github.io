@@ -9,8 +9,8 @@ tags: [overthewire, natas, level0, overthewire-natas, writeup]
 * Password: natas0
 * URL:      http://natas0.natas.labs.overthewire.org
 
-**Step 1:** Access the URL above, enter username and password to login
-**Step 2:** We will see a message _"You can find the password for the next level on this page."_. Let check the page source by right click on your browser and choose _View Page Sourse_.
+**Step 1:** Access the URL above, enter username and password to login<br>
+**Step 2:** We will see a message _"You can find the password for the next level on this page."_. Let check the page source by right click on your browser and choose _View Page Sourse_.<br>
 **Step 3:** Hooray! Easy right? The password is obviously in the comment of html file
 ```html
 <html>
