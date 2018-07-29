@@ -24,6 +24,7 @@ description: This is my personal site
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Contact: "contact"
   Resources:
     - Blogs: "Add link"
     - Projects: "http://www.markdowntutorial.com/"
