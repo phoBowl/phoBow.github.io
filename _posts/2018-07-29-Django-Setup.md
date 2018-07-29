@@ -21,12 +21,9 @@ After successfully install django on your machine. Let create a project<br>
 ```sh
 $ python manage.py runserver 0.0.0.0:8000
 Performing system checks...
-
 System check identified no issues (0 silenced).
-
 You have unapplied migrations; your app may not work properly until they are applied.
 Run 'python manage.py migrate' to apply them.
-
 July 29, 2018 - 14:03:02
 Django version 1.8.7, using settings 'learning_site.settings'
 Starting development server at http://0.0.0.0:8000/
