@@ -25,8 +25,8 @@ description: You have to think anyway, so why not think big?
 navbar-links:
   About Me: "aboutme"
   Contact: "contact"
+  Resume: "resume"
   Resources:
-    - Blogs: "Add link"
     - Projects: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://phoBowl.github.com/"
   Youtube Channel: "#"
