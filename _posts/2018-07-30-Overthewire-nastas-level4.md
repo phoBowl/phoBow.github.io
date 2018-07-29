@@ -19,7 +19,7 @@ tags: [overthewire, natas, level4, overthewire-natas, writeup]
 **Step 3:** I Tried to refresh the page a fews time. The message changes to
 > Access disallowed. You are visiting from "http://natas4.natas.labs.overthewire.org/" while authorized users should come only from "http://natas5.natas.labs.overthewire.org/" Refresh page
 
-Step 4: Strategy is to make to make the _You are visiting from ""_ become _You are visiting from "http://natas5.natas.labs.overthewire.org/"_. Open Burp Suite Community Edition. If you are unsure how to use Burp Suite, feel free to contact me, I can show you how to use it. Now, Let capure the GET request by Burp
+**Step 4:** Strategy is to make to make the _You are visiting from ""_ become _You are visiting from "http://natas5.natas.labs.overthewire.org/"_. Open Burp Suite Community Edition. If you are unsure how to use Burp Suite, feel free to contact me, I can show you how to use it. Now, Let capure the GET request by Burp
 ```
 GET /index.php HTTP/1.1
 Host: natas4.natas.labs.overthewire.org
