@@ -2,10 +2,10 @@
 layout: post
 title: Django Setup
 subtitle: ... Django for beginer
-tags: [django-learning, django, python]
+tags: [django-learning, django, python, basic-django]
 ---
 
-_This instruction uses Linux Bash command on Windows_
+_This instruction uses Linux Bash command on Windows_<br>
 To install Django by Linux command:
 * pip install django
 
