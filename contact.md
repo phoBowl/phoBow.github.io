@@ -1,15 +1,14 @@
 ---
 layout: page
-title: About me
-subtitle: Hi World
+title: Contact
+permalink: /contact/
 ---
 
 I am Nam, a final year Computer Science Student. I am passinated in technology
 
-- Interested in coding
 - I love swimming, table tennis
+- Enjoying beer on the weekend
 
 
-
-### Testing
+### my history
 
