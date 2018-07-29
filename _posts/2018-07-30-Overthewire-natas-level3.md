@@ -2,7 +2,7 @@
 layout: post
 title: Overthewire Natas Level 3
 subtitle: ... Write up
-tags: [overthewire, natas, level1, overthewire-natas, writeup]
+tags: [overthewire, natas, level3, overthewire-natas, writeup]
 ---
 
 ## Natas Level 3

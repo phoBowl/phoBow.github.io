@@ -2,7 +2,7 @@
 layout: post
 title: Overthewire Natas Level 2
 subtitle: ... Write up
-tags: [overthewire, natas, level1, overthewire-natas, writeup]
+tags: [overthewire, natas, level2, overthewire-natas, writeup]
 ---
 
 ## Natas Level 2
