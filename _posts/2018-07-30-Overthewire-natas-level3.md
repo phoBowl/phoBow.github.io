@@ -13,8 +13,10 @@ tags: [overthewire, natas, level1, overthewire-natas, writeup]
 **Step 1:** Let Login to the URL, you will amazingly again see the message as Level 2 did
 > There is nothing on this page
 
-**Step 2:** Awesome. Learn from experiences, I check the page source but nothing interesting there.
-**Step 3:** Let try to access the _robots.txt_ file. Go to this link _http://natas3.natas.labs.overthewire.org/robots.txt_
+**Step 2:** Awesome. Learn from experiences, I check the page source but nothing interesting there.<br>
+
+**Step 3:** Let try to access the _robots.txt_ file. Go to this link _http://natas3.natas.labs.overthewire.org/robots.txt <br>_
+
 **Step 4:** Cool. A Disallow folder named as _s3cr3t_.
 ```html
 User-agent: *
