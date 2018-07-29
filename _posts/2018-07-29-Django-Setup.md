@@ -32,7 +32,7 @@ Django version 1.8.7, using settings 'learning_site.settings'
 Starting development server at http://0.0.0.0:8000/
 Quit the server with CONTROL-C.
 ```
-
+<br>
 **Step 4:** Notice the output from the previous step, we see 'You have unapplied migration;...'. Now let migrate to project with database
 * python manage.py migrate
 ```bash
